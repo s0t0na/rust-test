@@ -1,0 +1,12 @@
+[package]
+name = "rust-test"
+edition = "2021"
+version = "0.1.0"
+authors = ["Dmytro Iaskolko <dy@operativa.de>"]
+
+[dependencies]
+
+[dev-dependencies]
+
+[features]
+
